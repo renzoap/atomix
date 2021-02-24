@@ -1,0 +1,15 @@
+Atomix 1.0 desarrollado por Renzo A. Pavàn
+
+Atomix es una clase cuya función es imprimir el dibujo un átomo en un documento 
+pdf. Fue creada con el objetivo de facilitar el construcción de materiales 
+educativos.  No representa un átomo real, sino una simplificación de este 
+inspirándose en el modelo atómico de Bohr.   
+
+Esta versión realiza el dibujo de un átomo variando aleatoriamente la cantidad 
+de protones, neutrones, electrones y capas de energía. 
+
+Los parámetros que puede utilizar el usuario son sus coordenadas en el papel 
+(x,y) y su tamaño. 
+
+Para funcionar necesita la librería jspdf, la cual se puede adquirir desde este 
+sitio: https://parall.ax/products/jspdf
